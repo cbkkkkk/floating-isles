@@ -1,0 +1,15 @@
+# 本地私有配置（含真实后端地址或密钥时不要提交）
+config.local.js
+.env
+.env.*
+
+# 备份 / 临时 / 编辑器 / 系统
+*.bak
+*.bak-*
+*~
+.DS_Store
+Thumbs.db
+node_modules/
+.idea/
+.vscode/
+*.log
